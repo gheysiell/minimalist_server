@@ -1,6 +1,6 @@
 # minimalist_server
 
-## Project made in C, with red rectangle
+## Project made in C, implements a web server
 
 ## Run
 
